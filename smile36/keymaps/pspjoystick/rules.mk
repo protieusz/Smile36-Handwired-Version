@@ -1,5 +1,3 @@
-SRC += analog.c
-
 THUMBSTICK_ENABLE = yes
 
 ifeq ($(strip $(THUMBSTICK_ENABLE)), yes)
