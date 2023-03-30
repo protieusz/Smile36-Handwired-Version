@@ -1,7 +1,7 @@
 {
-    "keyboard_name": "smilem36",
+    "keyboard_name": "smile36",
     "manufacturer": "protieus",
-    "url": "",
+    "url": "https://www.instagram.com/protieuskeebs/",
     "maintainer": "protieus",
     "usb": {
         "vid": "0xFEED",
@@ -15,7 +15,7 @@
     "debounce": 5,
     "matrix_pins": {
         "rows": ["GP0", "GP1", "GP2", "GP3"],
-        "cols": ["GP8", "GP9", "GP10", "GP11", "GP12", "GP13", "GP14", "GP15", "GP26", "GP27"]
+        "cols": ["GP4", "GP5", "GP6", "GP7", "GP8", "GP13", "GP14", "GP15", "GP26", "GP27"]
     },
     "matrix_size": {
         "cols": 10,
@@ -30,11 +30,23 @@
         "command": false,
         "nkro": false,
         "backlight": false,
-        "rgblight": false,
+        "rgblight": true,
         "audio": false,
         "key_lock": false
+    }, 
+    "rgblight": {
+        "pin": "GP25",
+        "led_count": 6,
+        "hue_steps": 8,
+        "saturation_steps": 8,
+        "brightness_steps": 8,
+        "max_brightness": 61,
+        "sleep": false,
+        "animations": {
+            "all": true
+        }
     },
-   "layouts": {
+"layouts": {
         "LAYOUT": {
             "layout": [
                 { "label": "K000", "matrix": [0, 0], "w": 1, "x": 0, "y": 0 },
@@ -75,6 +87,5 @@
                 { "label": "K309", "matrix": [3, 9], "w": 1, "x": 35, "y": 0 }
             ]
         }
-    }
-
+    }   
 }
