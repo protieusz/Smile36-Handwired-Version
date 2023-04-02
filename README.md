@@ -2,8 +2,9 @@
 Smilemini 36keys GRIN Layout
 
 PCB design is cureently on order. 
-
-
+![Screenshot 2023-04-02 at 10 29 46 AM](https://user-images.githubusercontent.com/118025702/229372414-e8cbda8c-e0a5-4d79-8251-8c510a9703da.png)
+![Screenshot_2023-04-01_at_10 01 15_PM](https://![Screenshot_2023-04-02_at_1 39 34_AM](https://user-images.githubusercontent.com/118025702/229372431-d57acd0a-0b0b-4059-a5de-80af716c6f29.png)
+user-images.githubusercontent.com/118025702/229372421-d9c242c9-4d73-4063-be88-aa45f9e504be.png)
 
 Keeb has finished handwire production.
 
