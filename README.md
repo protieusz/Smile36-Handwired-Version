@@ -1,7 +1,7 @@
 # Smilemini Handwire
 Smilemini 36keys GRIN Layout
 
-PCB design is currently on order on Apr 2, 2023. Please refer to the PCB version 
+PCB design is currently on order on Apr 2, 2023. Please refer to the PCB version https://github.com/protieusz/Smile36-PCB-Version
 
 Keeb has finished handwire production.
 
